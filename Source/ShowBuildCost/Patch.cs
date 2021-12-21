@@ -30,7 +30,7 @@ namespace ShowBuildCost
             if (list.Count > 0)
             {
                 var costString = String.Join(", ", list.Select(l => l.Summary));
-                yield return new StatDrawEntry(StatCategoryDefOf.Basics, "Cost", costString, "Cost of this item.", 1100);
+                yield return new StatDrawEntry(StatCategoryDefOf.Basics, "Cost".Translate(), costString, "CostDescription".Translate(), 1100);
             }
         }
     }

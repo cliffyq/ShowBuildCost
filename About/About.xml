@@ -3,7 +3,7 @@
     <name>ShowBuildCost</name>
     <author>Cliffyq</author>
     <packageId>Cliffyq.ShowBuildCost</packageId>
-    <description>Show build cost in info tab.</description>
+    <description>A mod for RimWorld to display item cost in the info tab. This could be helpful for example when choosing a research project, to look at the cost of the items to be unlocked.</description>
     <url>https://github.com/cliffyq/ShowBuildCost</url>
     <supportedVersions>
         <li>1.3</li>
